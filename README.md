@@ -34,7 +34,7 @@ Follow the steps below to run the Number Cruncher game:
    - Press the play button in the Unity Editor to run the game.
 
 4. **Or just Run the Executable:**
-   - Extract the contents of `build`.
+   - Present in the `build` folder.
    - Run the provided executable file (`Minor2d.exe`) to play the game.
 
 5. **Enjoy:**
